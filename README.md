@@ -1,2 +1,0 @@
-# FindStringInJSObject
-Created with CodeSandbox
